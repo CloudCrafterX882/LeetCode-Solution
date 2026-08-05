@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/useramit882/LeetCode-Solution/tree/main/0050-powx-n/) | Medium |
+| [0223-rectangle-area](https://github.com/useramit882/LeetCode-Solution/tree/main/0223-rectangle-area/) | Medium |
 | [0504-base-7](https://github.com/useramit882/LeetCode-Solution/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
@@ -47,4 +48,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/useramit882/LeetCode-Solution/tree/main/0050-powx-n/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/useramit882/LeetCode-Solution/tree/main/0223-rectangle-area/) | Medium |
 <!---LeetCode Topics End-->
