@@ -22,6 +22,7 @@
 | [0223-rectangle-area](https://github.com/useramit882/LeetCode-Solution/tree/main/0223-rectangle-area/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/useramit882/LeetCode-Solution/tree/main/0258-add-digits/) | Easy |
+| [0292-nim-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0504-base-7](https://github.com/useramit882/LeetCode-Solution/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -53,6 +54,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -91,4 +93,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
