@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0055-jump-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
+| [0078-subsets](https://github.com/useramit882/LeetCode-Solution/tree/main/0078-subsets/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/useramit882/LeetCode-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -77,6 +78,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/useramit882/LeetCode-Solution/tree/main/0078-subsets/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
 ## Stack
@@ -111,4 +113,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/useramit882/LeetCode-Solution/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
