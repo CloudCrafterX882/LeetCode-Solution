@@ -81,6 +81,7 @@
 | [0078-subsets](https://github.com/useramit882/LeetCode-Solution/tree/main/0078-subsets/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/useramit882/LeetCode-Solution/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
