@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/useramit882/LeetCode-Solution/tree/main/0050-powx-n/) | Medium |
+| [0089-gray-code](https://github.com/useramit882/LeetCode-Solution/tree/main/0089-gray-code/) | Medium |
 | [0223-rectangle-area](https://github.com/useramit882/LeetCode-Solution/tree/main/0223-rectangle-area/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0233-number-of-digit-one](https://github.com/useramit882/LeetCode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
@@ -86,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/useramit882/LeetCode-Solution/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/useramit882/LeetCode-Solution/tree/main/0089-gray-code/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/useramit882/LeetCode-Solution/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -125,4 +127,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/useramit882/LeetCode-Solution/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/useramit882/LeetCode-Solution/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
