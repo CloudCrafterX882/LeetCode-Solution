@@ -55,6 +55,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/useramit882/LeetCode-Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0038-count-and-say](https://github.com/useramit882/LeetCode-Solution/tree/main/0038-count-and-say/) | Medium |
 | [0139-word-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -91,6 +92,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/useramit882/LeetCode-Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0139-word-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [0290-word-pattern](https://github.com/useramit882/LeetCode-Solution/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -156,4 +158,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/useramit882/LeetCode-Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
