@@ -10,6 +10,7 @@
 | [0078-subsets](https://github.com/useramit882/LeetCode-Solution/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0139-word-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0139-word-break/) | Medium |
+| [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
@@ -47,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/useramit882/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
+| [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -94,6 +96,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/useramit882/LeetCode-Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0139-word-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0139-word-break/) | Medium |
+| [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0290-word-pattern](https://github.com/useramit882/LeetCode-Solution/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
@@ -162,4 +165,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/useramit882/LeetCode-Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
