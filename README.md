@@ -51,6 +51,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/useramit882/LeetCode-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/useramit882/LeetCode-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/useramit882/LeetCode-Solution/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/useramit882/LeetCode-Solution/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/useramit882/LeetCode-Solution/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -122,6 +123,7 @@
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/useramit882/LeetCode-Solution/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/useramit882/LeetCode-Solution/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/useramit882/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
