@@ -20,6 +20,7 @@
 | [0877-stone-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/useramit882/LeetCode-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/useramit882/LeetCode-Solution/tree/main/0258-add-digits/) | Easy |
+| [1929-concatenation-of-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
