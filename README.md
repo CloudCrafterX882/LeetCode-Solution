@@ -33,6 +33,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/useramit882/LeetCode-Solution/tree/main/0050-powx-n/) | Medium |
 | [0089-gray-code](https://github.com/useramit882/LeetCode-Solution/tree/main/0089-gray-code/) | Medium |
@@ -99,6 +100,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/useramit882/LeetCode-Solution/tree/main/0050-powx-n/) | Medium |
 | [0233-number-of-digit-one](https://github.com/useramit882/LeetCode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
 ## Geometry
@@ -204,4 +206,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
