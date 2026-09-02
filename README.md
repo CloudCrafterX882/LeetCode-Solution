@@ -15,6 +15,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/useramit882/LeetCode-Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
@@ -46,6 +47,7 @@
 | [0227-basic-calculator-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0233-number-of-digit-one](https://github.com/useramit882/LeetCode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
 | [0258-add-digits](https://github.com/useramit882/LeetCode-Solution/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0504-base-7](https://github.com/useramit882/LeetCode-Solution/tree/main/0504-base-7/) | Easy |
@@ -64,6 +66,7 @@
 | [0016-3sum-closest](https://github.com/useramit882/LeetCode-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -117,6 +120,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/useramit882/LeetCode-Solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0139-word-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/useramit882/LeetCode-Solution/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -130,6 +134,7 @@
 | [0089-gray-code](https://github.com/useramit882/LeetCode-Solution/tree/main/0089-gray-code/) | Medium |
 | [0190-reverse-bits](https://github.com/useramit882/LeetCode-Solution/tree/main/0190-reverse-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/useramit882/LeetCode-Solution/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/useramit882/LeetCode-Solution/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -190,6 +195,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
