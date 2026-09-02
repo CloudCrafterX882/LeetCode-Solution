@@ -133,6 +133,7 @@
 | [0078-subsets](https://github.com/useramit882/LeetCode-Solution/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/useramit882/LeetCode-Solution/tree/main/0089-gray-code/) | Medium |
 | [0190-reverse-bits](https://github.com/useramit882/LeetCode-Solution/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/useramit882/LeetCode-Solution/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/useramit882/LeetCode-Solution/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -206,6 +207,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/useramit882/LeetCode-Solution/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/useramit882/LeetCode-Solution/tree/main/0191-number-of-1-bits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
