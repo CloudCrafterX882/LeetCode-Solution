@@ -22,6 +22,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/useramit882/LeetCode-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/useramit882/LeetCode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/useramit882/LeetCode-Solution/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/useramit882/LeetCode-Solution/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/useramit882/LeetCode-Solution/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/useramit882/LeetCode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
