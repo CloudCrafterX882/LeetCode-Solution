@@ -22,6 +22,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/useramit882/LeetCode-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/useramit882/LeetCode-Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/useramit882/LeetCode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Two Pointers
@@ -90,6 +91,7 @@
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0504-base-7](https://github.com/useramit882/LeetCode-Solution/tree/main/0504-base-7/) | Easy |
 | [0771-jewels-and-stones](https://github.com/useramit882/LeetCode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/useramit882/LeetCode-Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/useramit882/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
