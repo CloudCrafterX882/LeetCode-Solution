@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/useramit882/LeetCode-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -39,6 +40,7 @@
 | [0344-reverse-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@
 | [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -131,6 +134,7 @@
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/useramit882/LeetCode-Solution/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/useramit882/LeetCode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
@@ -206,6 +210,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
