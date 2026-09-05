@@ -239,6 +239,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0002-add-two-numbers/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/useramit882/LeetCode-Solution/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
