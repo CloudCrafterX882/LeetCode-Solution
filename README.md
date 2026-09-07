@@ -44,6 +44,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0504-base-7](https://github.com/useramit882/LeetCode-Solution/tree/main/0504-base-7/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/useramit882/LeetCode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/useramit882/LeetCode-Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/useramit882/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -179,6 +181,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
