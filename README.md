@@ -103,6 +103,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0504-base-7](https://github.com/useramit882/LeetCode-Solution/tree/main/0504-base-7/) | Easy |
+| [0520-detect-capital](https://github.com/useramit882/LeetCode-Solution/tree/main/0520-detect-capital/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/useramit882/LeetCode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/useramit882/LeetCode-Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
