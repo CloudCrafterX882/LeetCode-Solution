@@ -61,6 +61,7 @@
 | [0233-number-of-digit-one](https://github.com/useramit882/LeetCode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
 | [0258-add-digits](https://github.com/useramit882/LeetCode-Solution/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0279-perfect-squares](https://github.com/useramit882/LeetCode-Solution/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0504-base-7](https://github.com/useramit882/LeetCode-Solution/tree/main/0504-base-7/) | Easy |
@@ -116,6 +117,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0139-word-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [0233-number-of-digit-one](https://github.com/useramit882/LeetCode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
+| [0279-perfect-squares](https://github.com/useramit882/LeetCode-Solution/tree/main/0279-perfect-squares/) | Medium |
 | [0877-stone-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/useramit882/LeetCode-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Game Theory
@@ -265,4 +267,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/useramit882/LeetCode-Solution/tree/main/0279-perfect-squares/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/useramit882/LeetCode-Solution/tree/main/0279-perfect-squares/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/useramit882/LeetCode-Solution/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
