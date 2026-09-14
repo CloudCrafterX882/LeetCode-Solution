@@ -61,6 +61,7 @@
 | [0223-rectangle-area](https://github.com/useramit882/LeetCode-Solution/tree/main/0223-rectangle-area/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0233-number-of-digit-one](https://github.com/useramit882/LeetCode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
+| [0241-different-ways-to-add-parentheses](https://github.com/useramit882/LeetCode-Solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0258-add-digits](https://github.com/useramit882/LeetCode-Solution/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/useramit882/LeetCode-Solution/tree/main/0279-perfect-squares/) | Medium |
@@ -101,6 +102,7 @@
 | [0125-valid-palindrome](https://github.com/useramit882/LeetCode-Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/useramit882/LeetCode-Solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0290-word-pattern](https://github.com/useramit882/LeetCode-Solution/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -119,6 +121,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0139-word-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [0233-number-of-digit-one](https://github.com/useramit882/LeetCode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
+| [0241-different-ways-to-add-parentheses](https://github.com/useramit882/LeetCode-Solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0279-perfect-squares](https://github.com/useramit882/LeetCode-Solution/tree/main/0279-perfect-squares/) | Medium |
 | [0877-stone-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/useramit882/LeetCode-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -137,6 +140,7 @@
 | [0002-add-two-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/useramit882/LeetCode-Solution/tree/main/0050-powx-n/) | Medium |
 | [0233-number-of-digit-one](https://github.com/useramit882/LeetCode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
+| [0241-different-ways-to-add-parentheses](https://github.com/useramit882/LeetCode-Solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -221,6 +225,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0139-word-break/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/useramit882/LeetCode-Solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/useramit882/LeetCode-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Brute-Force Search
 | Problem Name | Difficulty |
@@ -295,4 +300,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/useramit882/LeetCode-Solution/tree/main/0204-count-primes/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/useramit882/LeetCode-Solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 <!---LeetCode Topics End-->
