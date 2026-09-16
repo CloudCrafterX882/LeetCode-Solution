@@ -68,6 +68,7 @@
 | [0292-nim-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/useramit882/LeetCode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0400-nth-digit](https://github.com/useramit882/LeetCode-Solution/tree/main/0400-nth-digit/) | Medium |
 | [0504-base-7](https://github.com/useramit882/LeetCode-Solution/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -238,6 +239,7 @@
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0400-nth-digit](https://github.com/useramit882/LeetCode-Solution/tree/main/0400-nth-digit/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
