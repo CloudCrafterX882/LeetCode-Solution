@@ -66,6 +66,7 @@
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/useramit882/LeetCode-Solution/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
+| [0365-water-and-jug-problem](https://github.com/useramit882/LeetCode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0504-base-7](https://github.com/useramit882/LeetCode-Solution/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -280,6 +281,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/useramit882/LeetCode-Solution/tree/main/0279-perfect-squares/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/useramit882/LeetCode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,4 +306,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/useramit882/LeetCode-Solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/useramit882/LeetCode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
+## Bézout's Lemma
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/useramit882/LeetCode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/useramit882/LeetCode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/useramit882/LeetCode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
+## Extended Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/useramit882/LeetCode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 <!---LeetCode Topics End-->
