@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/useramit882/LeetCode-Solution/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/useramit882/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -45,6 +46,7 @@
 | [0088-merge-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/useramit882/LeetCode-Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/useramit882/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
