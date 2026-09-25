@@ -35,6 +35,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/useramit882/LeetCode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/useramit882/LeetCode-Solution/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/useramit882/LeetCode-Solution/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/useramit882/LeetCode-Solution/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
