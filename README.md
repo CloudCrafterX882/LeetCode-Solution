@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/useramit882/LeetCode-Solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/useramit882/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/useramit882/LeetCode-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -39,6 +40,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/useramit882/LeetCode-Solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/useramit882/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/useramit882/LeetCode-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -203,6 +205,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/useramit882/LeetCode-Solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/useramit882/LeetCode-Solution/tree/main/0134-gas-station/) | Medium |
