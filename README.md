@@ -33,6 +33,7 @@
 | [1929-concatenation-of-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/useramit882/LeetCode-Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/useramit882/LeetCode-Solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/useramit882/LeetCode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/useramit882/LeetCode-Solution/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -173,6 +174,7 @@
 | [0771-jewels-and-stones](https://github.com/useramit882/LeetCode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/useramit882/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/useramit882/LeetCode-Solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
