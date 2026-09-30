@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/useramit882/LeetCode-Solution/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/useramit882/LeetCode-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/useramit882/LeetCode-Solution/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -51,6 +52,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/useramit882/LeetCode-Solution/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/useramit882/LeetCode-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/useramit882/LeetCode-Solution/tree/main/0125-valid-palindrome/) | Easy |
@@ -136,6 +138,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/useramit882/LeetCode-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0139-word-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0139-word-break/) | Medium |
@@ -198,6 +201,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/useramit882/LeetCode-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/useramit882/LeetCode-Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0227-basic-calculator-ii/) | Medium |
 ## Simulation
@@ -369,4 +373,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/useramit882/LeetCode-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
