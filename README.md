@@ -23,6 +23,7 @@
 | [0134-gas-station](https://github.com/useramit882/LeetCode-Solution/tree/main/0134-gas-station/) | Medium |
 | [0139-word-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/useramit882/LeetCode-Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0164-maximum-gap](https://github.com/useramit882/LeetCode-Solution/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/useramit882/LeetCode-Solution/tree/main/0204-count-primes/) | Medium |
@@ -105,6 +106,7 @@
 | [0015-3sum](https://github.com/useramit882/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/useramit882/LeetCode-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0164-maximum-gap](https://github.com/useramit882/LeetCode-Solution/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -379,4 +381,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/useramit882/LeetCode-Solution/tree/main/0042-trapping-rain-water/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/useramit882/LeetCode-Solution/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/useramit882/LeetCode-Solution/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/useramit882/LeetCode-Solution/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
