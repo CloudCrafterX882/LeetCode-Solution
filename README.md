@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/useramit882/LeetCode-Solution/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/useramit882/LeetCode-Solution/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/useramit882/LeetCode-Solution/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/useramit882/LeetCode-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
@@ -245,6 +246,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/useramit882/LeetCode-Solution/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/useramit882/LeetCode-Solution/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/useramit882/LeetCode-Solution/tree/main/0089-gray-code/) | Medium |
 ## Trie
