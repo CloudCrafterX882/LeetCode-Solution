@@ -30,6 +30,7 @@
 | [0204-count-primes](https://github.com/useramit882/LeetCode-Solution/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/useramit882/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -61,6 +62,7 @@
 | [0125-valid-palindrome](https://github.com/useramit882/LeetCode-Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/useramit882/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -198,6 +200,7 @@
 | [0191-number-of-1-bits](https://github.com/useramit882/LeetCode-Solution/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/useramit882/LeetCode-Solution/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/useramit882/LeetCode-Solution/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -271,6 +274,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0400-nth-digit](https://github.com/useramit882/LeetCode-Solution/tree/main/0400-nth-digit/) | Medium |
@@ -395,4 +399,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/useramit882/LeetCode-Solution/tree/main/0164-maximum-gap/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
