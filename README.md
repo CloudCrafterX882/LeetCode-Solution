@@ -33,6 +33,7 @@
 | [0287-find-the-duplicate-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -115,6 +116,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
