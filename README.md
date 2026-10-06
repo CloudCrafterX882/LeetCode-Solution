@@ -92,6 +92,7 @@
 | [0365-water-and-jug-problem](https://github.com/useramit882/LeetCode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0400-nth-digit](https://github.com/useramit882/LeetCode-Solution/tree/main/0400-nth-digit/) | Medium |
+| [0415-add-strings](https://github.com/useramit882/LeetCode-Solution/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/useramit882/LeetCode-Solution/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -137,6 +138,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
+| [0415-add-strings](https://github.com/useramit882/LeetCode-Solution/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/useramit882/LeetCode-Solution/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/useramit882/LeetCode-Solution/tree/main/0520-detect-capital/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -218,6 +220,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/useramit882/LeetCode-Solution/tree/main/0258-add-digits/) | Easy |
+| [0415-add-strings](https://github.com/useramit882/LeetCode-Solution/tree/main/0415-add-strings/) | Easy |
 | [1929-concatenation-of-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
