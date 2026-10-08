@@ -89,6 +89,7 @@
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/useramit882/LeetCode-Solution/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
+| [0343-integer-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0343-integer-break/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/useramit882/LeetCode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/useramit882/LeetCode-Solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0400-nth-digit](https://github.com/useramit882/LeetCode-Solution/tree/main/0400-nth-digit/) | Medium |
@@ -155,6 +156,7 @@
 | [0233-number-of-digit-one](https://github.com/useramit882/LeetCode-Solution/tree/main/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/useramit882/LeetCode-Solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0279-perfect-squares](https://github.com/useramit882/LeetCode-Solution/tree/main/0279-perfect-squares/) | Medium |
+| [0343-integer-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0343-integer-break/) | Medium |
 | [0877-stone-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/useramit882/LeetCode-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Game Theory
