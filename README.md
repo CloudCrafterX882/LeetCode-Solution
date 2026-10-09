@@ -130,6 +130,7 @@
 | [0014-longest-common-prefix](https://github.com/useramit882/LeetCode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/useramit882/LeetCode-Solution/tree/main/0038-count-and-say/) | Medium |
+| [0058-length-of-last-word](https://github.com/useramit882/LeetCode-Solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/useramit882/LeetCode-Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0227-basic-calculator-ii/) | Medium |
