@@ -69,6 +69,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0392-is-subsequence](https://github.com/useramit882/LeetCode-Solution/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/useramit882/LeetCode-Solution/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
@@ -144,6 +145,7 @@
 | [0383-ransom-note](https://github.com/useramit882/LeetCode-Solution/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/useramit882/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/useramit882/LeetCode-Solution/tree/main/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/useramit882/LeetCode-Solution/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/useramit882/LeetCode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/useramit882/LeetCode-Solution/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/useramit882/LeetCode-Solution/tree/main/0504-base-7/) | Easy |
@@ -163,6 +165,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/useramit882/LeetCode-Solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0279-perfect-squares](https://github.com/useramit882/LeetCode-Solution/tree/main/0279-perfect-squares/) | Medium |
 | [0343-integer-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0343-integer-break/) | Medium |
+| [0392-is-subsequence](https://github.com/useramit882/LeetCode-Solution/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/useramit882/LeetCode-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Game Theory
