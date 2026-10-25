@@ -43,6 +43,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/useramit882/LeetCode-Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/useramit882/LeetCode-Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/useramit882/LeetCode-Solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/useramit882/LeetCode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -72,6 +73,7 @@
 | [0392-is-subsequence](https://github.com/useramit882/LeetCode-Solution/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/useramit882/LeetCode-Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/useramit882/LeetCode-Solution/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -126,6 +128,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/useramit882/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/useramit882/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/useramit882/LeetCode-Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/useramit882/LeetCode-Solution/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -299,6 +302,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0400-nth-digit](https://github.com/useramit882/LeetCode-Solution/tree/main/0400-nth-digit/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/useramit882/LeetCode-Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
