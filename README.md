@@ -27,6 +27,7 @@
 | [0162-find-peak-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/useramit882/LeetCode-Solution/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/useramit882/LeetCode-Solution/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/useramit882/LeetCode-Solution/tree/main/0217-contains-duplicate/) | Easy |
@@ -120,6 +121,7 @@
 | [0088-merge-sorted-array](https://github.com/useramit882/LeetCode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0164-maximum-gap](https://github.com/useramit882/LeetCode-Solution/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/useramit882/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/useramit882/LeetCode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/useramit882/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -141,6 +143,7 @@
 | [0058-length-of-last-word](https://github.com/useramit882/LeetCode-Solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/useramit882/LeetCode-Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/useramit882/LeetCode-Solution/tree/main/0139-word-break/) | Medium |
+| [0179-largest-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/useramit882/LeetCode-Solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0290-word-pattern](https://github.com/useramit882/LeetCode-Solution/tree/main/0290-word-pattern/) | Easy |
@@ -256,6 +259,7 @@
 | [0055-jump-game](https://github.com/useramit882/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/useramit882/LeetCode-Solution/tree/main/0134-gas-station/) | Medium |
+| [0179-largest-number](https://github.com/useramit882/LeetCode-Solution/tree/main/0179-largest-number/) | Medium |
 | [0409-longest-palindrome](https://github.com/useramit882/LeetCode-Solution/tree/main/0409-longest-palindrome/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/useramit882/LeetCode-Solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Brainteaser
